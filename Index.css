@@ -62,13 +62,14 @@ nav li a.joint{
 .box1 .box{
     position:absolute;
     color: white;
-    left:20px;
+    left:50px;
     top:30%;
-    font-size: 49px;
+    font-size: 30px;
+    padding: 15%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color:rgb(228, 5, 35);
     margin: auto;
-    border-radius: 20px;  
+    border-radius: 10px;  
 }  
 main{
     max-width: 100%;
